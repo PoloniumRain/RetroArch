@@ -2455,10 +2455,6 @@ MSG_HASH(
    "Супер"
    )
 MSG_HASH(
-   MENU_ENUM_LABEL_VALUE_VIDEO_HDR_SCANLINES,
-   ""
-   )
-MSG_HASH(
    MENU_ENUM_LABEL_VALUE_VIDEO_HDR_SUBPIXEL_LAYOUT,
    "Субпіксельна схема"
    )
@@ -9562,7 +9558,7 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_HELP_VIDEO_SHADER_FILTER_PASS,
-   "Фільтр апаратних засобів для цього проходження. Якщо встановлено значення \\\"За замовчуванням', то фільтр буде встановлено або «Лінійн» або «Голковий», що залежить від параметра 'Bilinear'."
+   "Фільтр апаратних засобів для цього проходження. Якщо встановлено значення \\\\\"За замовчуванням', то фільтр буде встановлено або «Лінійн» або «Голковий», що залежить від параметра 'Bilinear'."
   )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_SCALE,
